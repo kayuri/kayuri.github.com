@@ -1,3 +1,7 @@
+/*
+  Yuriy Kashnikov: http://kayuri.github.com
+*/
+
 h1
 {
     font-size:16pt;
@@ -10,6 +14,7 @@ h2
 
 body
 {
+    font-family: Arial, Geneva, Helvetica;
     margin-top:20px;
     margin-bottom:20px;
     margin-right:50px;
@@ -20,4 +25,10 @@ body
 li
 {
     margin-top:10px;
+}
+
+/* Style for contacts */
+#xcontacts a
+{
+    font-size:10pt;
 }
